@@ -1,0 +1,1 @@
+Going through the Odin Project Course to gain a solid foundation in web-development. This project is part of the HTML Lesson.
